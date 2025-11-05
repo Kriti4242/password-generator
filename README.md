@@ -1,1 +1,1 @@
-It's live('https://automatic-password-generator12.netlify.app/') check now.
+ **[ It's Live](https://fakejobdetector.netlify.app/](https://automatic-password-generator12.netlify.app/)** — Try it out now!
